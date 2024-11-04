@@ -112,6 +112,8 @@
   </a>
 </div>
 
+![naanzitos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=naanzitos&theme=vue-dark&hide_border=true)
+
 ###
 
 <div align="center">
